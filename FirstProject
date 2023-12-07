@@ -1,1 +1,4 @@
+def hello_team():
+    print("hello, Assylzat and Banu")
 
+hello_team()
