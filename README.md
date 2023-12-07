@@ -1,2 +1,2 @@
 # pyhton-with-Madiyar
-# the project is first on github for all participants of this project. Don't judge hard, or even better, if you give advice. trying to get a clue as to how this system works 
+# the project is first on github for all participants of this project. Don't hesitate to advise on the coding style and all the staff you found necessary to comment. trying to get a clue as to how this system works 
